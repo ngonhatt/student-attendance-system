@@ -74,13 +74,7 @@ This project is developed as a **course project**.
 ## 📂 Project Structure
 ```text
 student-attendance-system/
-├── src/
-│   ├── main.c
-│   ├── rfid.c
-│   ├── lcd.c
-│   └── rtc.c
-├── inc/
-│   ├── rfid.h
-│   ├── lcd.h
-│   └── rtc.h
+├── attendance_system.ino
+│   
 ├── README.md
+
