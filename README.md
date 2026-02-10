@@ -38,27 +38,14 @@ This project is developed as a **course project**.
 ---
 
 ## 📷 Demo
-* PARKING SYSTEM PROTOTYPE
+* STUDENT ATTENDANCE SYSTEM PROTOTYPE
   
-<img width="471" height="419" alt="image" src="https://github.com/user-attachments/assets/fa523d43-e00a-4a7c-92da-c7b3e2618169" />
+<img width="938" height="1424" alt="image" src="https://github.com/user-attachments/assets/77df1ead-a708-44c6-bf2f-a4aa19fe791d" />
 
-* USER INTERFACE (UI)
 
-<img width="1179" height="613" alt="image" src="https://github.com/user-attachments/assets/5c05f8e5-f072-4dca-a1c9-789c8a3ced4e" />
+* SCHEMATIC DIAGRAM
 
-* VEHICLE LICENSE PLATE CAPTURE SYSTEM AT ENTRY
-
-<img width="1058" height="641" alt="image" src="https://github.com/user-attachments/assets/210d8086-00b7-4dd9-ac32-94af039e0cda" />
-
-* VEHICLE LICENSE PLATE CAPTURE SYSTEM AT EXIT
-
-<img width="1037" height="627" alt="image" src="https://github.com/user-attachments/assets/2f1527fa-28a7-4d4b-9569-bdb9767e8ad7" />
-
-* THE SYSTEM STORES VEHICLE ENTRY AND EXIT DATA INTO A CSV FILE AND EXCEL FILE 
-
-<img width="566" height="223" alt="image" src="https://github.com/user-attachments/assets/adaf3b94-316f-44c1-911e-1b908e512273" />
-
-<img width="604" height="292" alt="image" src="https://github.com/user-attachments/assets/e11fcbcc-a9b0-4496-9b59-224cb370f591" />
+<img width="1231" height="705" alt="image" src="https://github.com/user-attachments/assets/46d5fc8c-c2b1-474b-9d3a-c19fa6ac8cb4" />
 
 
 ---
