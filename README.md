@@ -36,7 +36,13 @@ microcontroller hardware behavior.
 ## 🧠 Project Structure
 ```text
 stm32-baremetal/
-├── src/
-├── inc/
-├── Makefile
+├── gpio/
+├── timer/
+├── uart/
+├── uart_interrupt/
+├── spi/
+├── i2c/
+├── dma/
+├── bootloader/
 └── README.md
+
