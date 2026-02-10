@@ -74,7 +74,6 @@ This project is developed as a **course project**.
 ## 📂 Project Structure
 ```text
 student-attendance-system/
-├── attendance_system.ino
-│   
+├── attendance_system.ino  
 ├── README.md
 
